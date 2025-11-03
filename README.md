@@ -1,19 +1,22 @@
 
-# Parth’s AI Code Reviewer 🤖
+Parth's AI Code Reviewer.
 
-An automated GitHub bot that reviews pull requests using GPT-4.
+An automated system that employs intelligent AI and automatically evaluates code using advanced AI models to provide feedback, improvements, and best practice recommendations.
 
-## Features
-- Auto-analyzes code diffs from pull requests
-- Uses GPT-4 to provide intelligent review suggestions
-- Posts comments directly to the PR
+##  Features.
+Code review of Python using AI.
+Automated access to GitHub Actions.
+Designing custom apps utilizing main.py and review.ppy?
+Easy to adapt for future AI advancements.
 
-## Stack
-- **Backend:** Python (FastAPI)
-- **LLM:** OpenAI GPT-4
-- **Automation:** GitHub Actions
+##  Tech Stack.
+- Python 3.10+.
+- OpenAI API (or other LLM):
+- GitHub Actions for automation.
 
-## Setup
-1. Add `OPENAI_API_KEY` and `GITHUB_TOKEN` in GitHub Secrets.
-2. Push code to GitHub.
-3. The bot automatically reviews new pull requests.
+## Setup.
+Bash.
+Git clone https://github.com/Parthjava/parths-ai-code-reviewer.git.
+Cd parths-ai-code-reviewer.
+Pip install -r requirements.txt.
+Python app/main.py.
