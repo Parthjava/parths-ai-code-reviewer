@@ -1,5 +1,8 @@
 
-Parth's AI Code Reviewer.
+# 🤖 Parth’s AI Code Reviewer
+
+[![Made by Parth](https://img.shields.io/badge/Made%20by-Parth-blueviolet?style=for-the-badge)](https://github.com/Parthjava)
+
 
 An automated system that employs intelligent AI and automatically evaluates code using advanced AI models to provide feedback, improvements, and best practice recommendations.
 
